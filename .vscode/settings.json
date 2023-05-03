@@ -1,0 +1,9 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.autoStash": true,
+    "git.branchRandomName.enable": true,
+    "git.closeDiffOnOperation": true
+}
